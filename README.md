@@ -1,6 +1,6 @@
- <src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="[https://komarev.com/ghpvc/?username=shanto0001&label=Profile%20views&color=0e75b6&style=flat](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif)" alt="shanto0001" /> 
 <h1 align="center">Hi 👋, I'm SHANTO THOMAS</h1>
-<P> <h4>💫 About Me: 
+<P> <h2>💫 About Me: 
 </h4></P>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 <img align ="right" alt ="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
